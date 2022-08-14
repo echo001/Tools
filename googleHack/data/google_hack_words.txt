@@ -1,0 +1,6 @@
+site:*
+site:* -linux
+site:* ext:pdf
+site:* intitle:mobile
+site:* filetype:pdf
+link:*

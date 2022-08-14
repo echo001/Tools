@@ -1,0 +1,156 @@
+site:*
+site:*/admin-login intitle:"Admin Login"
+site:*/login/login.php
+site:*/auth intitle:login
+site:*/joomla/administrator
+site:*/index.jsp intitle:"login"
+site:*/login/auth
+site:*/user/login
+site:*/account/login
+site:*/forum/ucp.php?mode=login
+site:*/sign-in
+site:*/users/login_form
+site:*/access/unauthenticated
+site:*/quicklogin.php
+site:*/auth/login.aspx
+site:*/cgi-bin/login.html
+site:*/src/login.php
+site:*/forum/login/
+site:*/logon/logonpoint/tmindex.html
+site:*/logon/ intitle:"Sign In"
+site:*/sign_in.aspx
+site:*/admin/login.html
+site:*/admin-login intitle:"Admin Login"
+site:*/adminLogin/login/
+site:*/phpinfo.php intitle:"phpinfo()"
+site:*/pages/login.php intitle:"Login"
+site:*/en/login/
+site:*/index.php/login intitle:"login"
+site:*/cgi/user.cgi
+site:*/wp-includes/ inurl:/wp-includes/
+site:*/wp-contents/ inurl:/wp-contents/
+site:*/Webmail/
+site:*/Password.aspx
+site:*/forgetpassword.php
+site:*/log/access_log
+site:*/web-hosting/cplogin
+site:*/account-sign-in
+site:*/login/ForgotPassword
+site:*/wp-login?redirect_to= intitle:"login"
+site:*/wordpress/wordpress.bak/
+site:*/admincp/ intitle:"Admin Cp"
+site:*/user/password/
+site:*/robots.txt intext:User-agent:
+site:*/phpMyAdmin/robots.txt
+site:*/securelogin.asp
+site:*/authlogin/ intitle:login
+site:*/exchange-login/ intitle:"Login"
+site:*/m-login.html
+site:*/Security/Login
+site:*/updatepassword.php
+site:*/validar_usuario.php
+site:*/SendPassword
+site:*/password_reset/
+site:*/forgot-password
+site:*/resetpassword.php
+site:*/recover-pass
+site:*/nms/login intitle:"UNMS"
+site:*/sitemap/sitemap.xml
+site:*/index_signin.php
+site:*/authUpdate intitle:"Account Access Help"
+site:*/404/404.html intitle:"404"
+site:*/Shibboleth.sso/SAML2/POST
+site:*/casAuthn/login.php
+site:*/authzssl/forget_password
+site:*/oauth2/authorize
+site:*/server-status intext:"Apache server status for"
+site:*/*/conf/httpd.conf
+site:*/pwdform.htm
+site:*/cgi-sys/suspendedpage.cgi intitle:"Account Suspended"
+site:*/logs/error.log
+site:*/wp-admin/user-edit.php
+site:*/wp-admin/install.php intitle:WordPress Installation
+site:*/wp-settings.php
+site:*/cgi-sys/defaultwebpage.cgi intext:"SORRY!"
+site:*/request-password-reset
+site:*/account/preferences
+site:*/wp-includes/Requests/php_errorlog
+site:*/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"
+site:*/oauth/authenticate
+site:*/usercp.php
+site:*/loginportal/ intitle:"login"
+site:*/password/remind
+site:*/Dashboard/ intitle:"login"
+site:*/account/lost_password
+site:*/logs/default.htm
+site:*/cb-forgot-login
+site:*/account/reset
+site:*/cgi-bin/luci intext:"Authorization Required"
+site:*/auth_index.htm?lang=kr&loginvalue=0&port=0
+site:*/admin/password/reset
+site:*/my.policy
+site:*/siteminderagent/forms/login.fcc
+site:*/cgi/domadmin.cgi
+site:*/AdminPanel.php
+intitle:"Sign in" site:*/idaas/
+site:*/cgi-bin/webproc intext:"username"
+site:*/LoginPanel.aspx
+site:*/AdminPanel.aspx
+site:*/Citrix/storeweb
+site:*/retrieve.php
+site:*/account-recovery.html
+site:*/retrieve-password
+site:*/resetpass.php
+site:*/reminder_password
+site:*/changePassword.php
+site:*/*/pwdrecovery.php
+site:*/adfs/ls/ intitle:"Sign In"
+site:*/signup/password.php
+site:*/requestpassword.*
+site:*/membersarea intitle:"login"
+site:*/user/forgot
+site:*/JIRA/login
+site:*/admin/password.php
+site:*/lost_pass.php
+site:*/request-new-password
+site:*/password_lost.php
+site:*/auth.php
+site:*/PassRecover
+site:*/user/forgotpass
+site:*/signup/pass
+site:*/test/login
+site:*/lost-password/
+site:*/EWS/Exchange.asmx
+site:*/dana-na/auth/welcome.cgi?p=rolelogo
+site:*/asana/login
+site:*/login/pass
+site:*/Drupal/login
+site:*/auth/forgot
+site:*/joomla/login
+site:*/password_forgotten.php
+site:*/auth.html intitle:login
+site:*/piwik "Sign in" "Matomo"
+"Retrieve Your Password" site:*/recoverpassword.aspx
+site:*/dyn_sensors.htm "ID"
+site:*/tcpipv4.htm
+site:*/tcpipv6.htm
+site:*/net/net/protocol.html
+intitle:"Intelbras" site:*/index.html
+site:*/phpmyadmin/server_sql.php
+site:*/phpmyadmin/server_privileges.php
+site:*/phpmyadmin/server_databases.php
+site:*/JIRA/login
+site:*/admin.php inurl:files
+site:*/admin.php inurl:admin
+site:*/phpmyadmin/import.php
+site:*/phpmyadmin/server_import.php
+site:*/etc/passwd inurl"/etc/passwd"
+site:*/oauth/token
+site:*/oauth/authorize
+site:*/node_modules/ content:"ssh"
+site:*/node_modules/ content:"PEM"
+site:*/*.asp
+site:*/membership-login/
+site:*/forgotpassword.php
+site:*/admin-portal/
+
